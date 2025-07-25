@@ -761,8 +761,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-!git init
-
-!git add .
-!git commit -m "Add project code and initial files"
 
